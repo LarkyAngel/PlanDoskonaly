@@ -1,1 +1,1 @@
-# PlanDoskona-y
+# PlanDoskonaly
