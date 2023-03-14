@@ -16,6 +16,8 @@
 ## Sprint 3 - deadline 25.05.2023, 3 tygodnie
 - stworzenie UI
 
-## Sprint 4 - deadline 08.06.2023
+## Sprint 4 - deadline 08.06.2023, 2 tygodnie
 - bugfixes
 - usprawnienia
+- dokumentacja
+- prezentacja
