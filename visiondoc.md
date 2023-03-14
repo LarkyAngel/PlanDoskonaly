@@ -7,13 +7,15 @@ Co semestr studenci Uniwersytetu Warszawskiego muszą ułożyć plan zajęć. Je
 Użytkownikami strony będą studenci Uniwersytetu Warszawskiego, w szczególności studenci studiujący na kilku wydziałach na raz, albo dobierający wiele przedmiotów np. studenci MISMaP, MISH, JSIM.
 
 ## Funkcjonalność
-- minimalizacja liczby kolizji
-- minimalizacja liczby okienek
-- optymalizacja sumy ocen prowadzących
-- wyszukiwanie przedmiotów i grup (poprzez skorzystanie z API USOSa UW)
-- zapisywanie planu na swoim koncie
-- tworzenie statystyk ocen poszczególnych prowadzących
+1. proponowanie optymalnego planu
+    - minimalizacja liczby kolizji
+    - minimalizacja liczby okienek
+    - optymalizacja sumy ocen prowadzących (optional feature)
+2. autoryzacja poprzez USOSa UW
+3. wyszukiwanie przedmiotów i grup (poprzez skorzystanie z API USOSa UW)
+4. zapisywanie planu na swoim koncie
+5. optymalizacja sumy ocen prowadzących (optional feature)
 
 ## Technologie
-- frontend: HTML, CSS, JavaScript lub Vue.js, JavaScript lub TypeScript
-- backend: Django, Oracle DB
+- frontend: Vue.js (JavaScript lub TypeScript)
+- backend: Django (Python), Oracle DB
